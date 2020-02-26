@@ -1,0 +1,10 @@
+D:\Work\CarWash\CarWash v1.0\source\backend\WashCar\WashCar.Entities\bin\Debug\netcoreapp3.1\WashCar.Entities.deps.json
+D:\Work\CarWash\CarWash v1.0\source\backend\WashCar\WashCar.Entities\bin\Debug\netcoreapp3.1\WashCar.Entities.runtimeconfig.json
+D:\Work\CarWash\CarWash v1.0\source\backend\WashCar\WashCar.Entities\bin\Debug\netcoreapp3.1\WashCar.Entities.runtimeconfig.dev.json
+D:\Work\CarWash\CarWash v1.0\source\backend\WashCar\WashCar.Entities\bin\Debug\netcoreapp3.1\WashCar.Entities.dll
+D:\Work\CarWash\CarWash v1.0\source\backend\WashCar\WashCar.Entities\bin\Debug\netcoreapp3.1\WashCar.Entities.pdb
+D:\Work\CarWash\CarWash v1.0\source\backend\WashCar\WashCar.Entities\obj\Debug\netcoreapp3.1\WashCar.Entities.csprojAssemblyReference.cache
+D:\Work\CarWash\CarWash v1.0\source\backend\WashCar\WashCar.Entities\obj\Debug\netcoreapp3.1\WashCar.Entities.AssemblyInfoInputs.cache
+D:\Work\CarWash\CarWash v1.0\source\backend\WashCar\WashCar.Entities\obj\Debug\netcoreapp3.1\WashCar.Entities.AssemblyInfo.cs
+D:\Work\CarWash\CarWash v1.0\source\backend\WashCar\WashCar.Entities\obj\Debug\netcoreapp3.1\WashCar.Entities.dll
+D:\Work\CarWash\CarWash v1.0\source\backend\WashCar\WashCar.Entities\obj\Debug\netcoreapp3.1\WashCar.Entities.pdb

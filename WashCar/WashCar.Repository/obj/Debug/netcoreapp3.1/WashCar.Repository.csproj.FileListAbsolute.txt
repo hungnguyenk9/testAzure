@@ -1,0 +1,11 @@
+D:\Work\CarWash\CarWash v1.0\source\backend\WashCar\WashCar.Repository\bin\Debug\netcoreapp3.1\WashCar.Repository.deps.json
+D:\Work\CarWash\CarWash v1.0\source\backend\WashCar\WashCar.Repository\bin\Debug\netcoreapp3.1\WashCar.Repository.dll
+D:\Work\CarWash\CarWash v1.0\source\backend\WashCar\WashCar.Repository\bin\Debug\netcoreapp3.1\WashCar.Repository.pdb
+D:\Work\CarWash\CarWash v1.0\source\backend\WashCar\WashCar.Repository\bin\Debug\netcoreapp3.1\WashCar.Entities.dll
+D:\Work\CarWash\CarWash v1.0\source\backend\WashCar\WashCar.Repository\bin\Debug\netcoreapp3.1\WashCar.Entities.pdb
+D:\Work\CarWash\CarWash v1.0\source\backend\WashCar\WashCar.Repository\obj\Debug\netcoreapp3.1\WashCar.Repository.csprojAssemblyReference.cache
+D:\Work\CarWash\CarWash v1.0\source\backend\WashCar\WashCar.Repository\obj\Debug\netcoreapp3.1\WashCar.Repository.AssemblyInfoInputs.cache
+D:\Work\CarWash\CarWash v1.0\source\backend\WashCar\WashCar.Repository\obj\Debug\netcoreapp3.1\WashCar.Repository.AssemblyInfo.cs
+D:\Work\CarWash\CarWash v1.0\source\backend\WashCar\WashCar.Repository\obj\Debug\netcoreapp3.1\WashCar.Repository.csproj.CopyComplete
+D:\Work\CarWash\CarWash v1.0\source\backend\WashCar\WashCar.Repository\obj\Debug\netcoreapp3.1\WashCar.Repository.dll
+D:\Work\CarWash\CarWash v1.0\source\backend\WashCar\WashCar.Repository\obj\Debug\netcoreapp3.1\WashCar.Repository.pdb

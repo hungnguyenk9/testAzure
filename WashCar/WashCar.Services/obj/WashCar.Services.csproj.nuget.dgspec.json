@@ -1,0 +1,213 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Work\\CarWash\\CarWash v1.0\\source\\backend\\WashCar\\WashCar.Services\\WashCar.Services.csproj": {}
+  },
+  "projects": {
+    "D:\\Work\\CarWash\\CarWash v1.0\\source\\backend\\WashCar\\WashCar.Entities\\WashCar.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Work\\CarWash\\CarWash v1.0\\source\\backend\\WashCar\\WashCar.Entities\\WashCar.Entities.csproj",
+        "projectName": "WashCar.Entities",
+        "projectPath": "D:\\Work\\CarWash\\CarWash v1.0\\source\\backend\\WashCar\\WashCar.Entities\\WashCar.Entities.csproj",
+        "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
+        "outputPath": "D:\\Work\\CarWash\\CarWash v1.0\\source\\backend\\WashCar\\WashCar.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Work\\CarWash\\CarWash v1.0\\source\\backend\\WashCar\\WashCar.Repository\\WashCar.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Work\\CarWash\\CarWash v1.0\\source\\backend\\WashCar\\WashCar.Repository\\WashCar.Repository.csproj",
+        "projectName": "WashCar.Repository",
+        "projectPath": "D:\\Work\\CarWash\\CarWash v1.0\\source\\backend\\WashCar\\WashCar.Repository\\WashCar.Repository.csproj",
+        "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
+        "outputPath": "D:\\Work\\CarWash\\CarWash v1.0\\source\\backend\\WashCar\\WashCar.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Work\\CarWash\\CarWash v1.0\\source\\backend\\WashCar\\WashCar.Entities\\WashCar.Entities.csproj": {
+                "projectPath": "D:\\Work\\CarWash\\CarWash v1.0\\source\\backend\\WashCar\\WashCar.Entities\\WashCar.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            },
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Work\\CarWash\\CarWash v1.0\\source\\backend\\WashCar\\WashCar.Services\\WashCar.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Work\\CarWash\\CarWash v1.0\\source\\backend\\WashCar\\WashCar.Services\\WashCar.Services.csproj",
+        "projectName": "WashCar.Services",
+        "projectPath": "D:\\Work\\CarWash\\CarWash v1.0\\source\\backend\\WashCar\\WashCar.Services\\WashCar.Services.csproj",
+        "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
+        "outputPath": "D:\\Work\\CarWash\\CarWash v1.0\\source\\backend\\WashCar\\WashCar.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Work\\CarWash\\CarWash v1.0\\source\\backend\\WashCar\\WashCar.Entities\\WashCar.Entities.csproj": {
+                "projectPath": "D:\\Work\\CarWash\\CarWash v1.0\\source\\backend\\WashCar\\WashCar.Entities\\WashCar.Entities.csproj"
+              },
+              "D:\\Work\\CarWash\\CarWash v1.0\\source\\backend\\WashCar\\WashCar.Repository\\WashCar.Repository.csproj": {
+                "projectPath": "D:\\Work\\CarWash\\CarWash v1.0\\source\\backend\\WashCar\\WashCar.Repository\\WashCar.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
